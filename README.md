@@ -1,9 +1,8 @@
-# pythondjango
+# to start django project
 
-\n```py .\final\manage.py runserver```
+```django-admin startproject mysite```
+```py .\final\manage.py runserver```
 
 
-
-\n```pip install -r requirements.txt```
-
-\n```venv\Script\activate```
+```venv\Script\activate```
+```pip install -r requirements.txt```
