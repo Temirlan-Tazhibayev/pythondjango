@@ -1,6 +1,7 @@
 To start django project:
 Firstly create project
 * ```django-admin startproject final```
+
 And runserver
 * ```py .\final\manage.py runserver```
 
