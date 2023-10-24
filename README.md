@@ -1,5 +1,9 @@
 # pythondjango
 
-```pip install -r requirements.txt```
-```py .\final\manage.py runserver```
-```venv\Script\activate```
+\n```py .\final\manage.py runserver```
+
+
+
+\n```pip install -r requirements.txt```
+
+\n```venv\Script\activate```
